@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\BankAccount\BankAccount\bin\Debug\net6.0\BankAccount.exe
+C:\temp\ws-vs2022\BankAccount\BankAccount\bin\Debug\net6.0\BankAccount.deps.json
+C:\temp\ws-vs2022\BankAccount\BankAccount\bin\Debug\net6.0\BankAccount.runtimeconfig.json
+C:\temp\ws-vs2022\BankAccount\BankAccount\bin\Debug\net6.0\BankAccount.dll
+C:\temp\ws-vs2022\BankAccount\BankAccount\bin\Debug\net6.0\ref\BankAccount.dll
+C:\temp\ws-vs2022\BankAccount\BankAccount\bin\Debug\net6.0\BankAccount.pdb
+C:\temp\ws-vs2022\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfo.cs
+C:\temp\ws-vs2022\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.dll
+C:\temp\ws-vs2022\BankAccount\BankAccount\obj\Debug\net6.0\ref\BankAccount.dll
+C:\temp\ws-vs2022\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.pdb
+C:\temp\ws-vs2022\BankAccount\BankAccount\obj\Debug\net6.0\BankAccount.genruntimeconfig.cache
